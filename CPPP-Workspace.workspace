@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CPPP-Workspace" Database="" Version="10.0.0">
+  <Project Name="Task1_HelloWorld" Path="Task0_HelloWorld/Task0_HelloWorld.project" Active="No"/>
+  <Project Name="Task2_Basics" Path="Task2_Basics/Task2_Basics.project" Active="No"/>
+  <Project Name="Task3_Classes" Path="Task3_Classes/Task3_Classes.project" Active="No"/>
+  <Project Name="Task5_Pointer" Path="Task5_Pointer/Task5_Pointer.project" Active="No"/>
+  <Project Name="Task6_Arrays" Path="Task6_Arrays/Task6_Arrays.project" Active="No"/>
+  <Project Name="Task7_Lists" Path="Task7_Lists/Task7_Lists.project" Active="No"/>
+  <Project Name="Task9_Polymorphism" Path="Task10_Polymorphism/Task10_Polymorphism.project" Active="No"/>
+  <Project Name="Task10_PureVirtual" Path="Task10_PureVirtual/Task10_PureVirtual.project" Active="No"/>
+  <Project Name="Task21_3_printf" Path="Task21_3_printf/Task21_3_printf.project" Active="No"/>
+  <Project Name="Task21_4_Strings" Path="Task21_4_Strings/Task21_4_Strings.project" Active="No"/>
+  <Project Name="Task21_5_Numbers" Path="Task21_5_Numbers/Task21_5_Numbers.project" Active="No"/>
+  <Project Name="Task21_6_BitOp" Path="Task21_6_BitOp/Task21_6_BitOp.project" Active="No"/>
+  <Project Name="Task28_Aufzugsimulation" Path="Aufzugsimulation/Aufzugsimulation.project" Active="No"/>
+  <Project Name="Task29_Aufzugsimulation" Path="Task29_Aufzugsimulation/Aufzugsimulation.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Task1_HelloWorld" ConfigName="Debug"/>
+      <Project Name="Task2_Basics" ConfigName="Debug"/>
+      <Project Name="Task3_Classes" ConfigName="Debug"/>
+      <Project Name="Task5_Pointer" ConfigName="Debug"/>
+      <Project Name="Task6_Arrays" ConfigName="Debug"/>
+      <Project Name="Task7_Lists" ConfigName="Debug"/>
+      <Project Name="Task9_Polymorphism" ConfigName="Debug"/>
+      <Project Name="Task10_PureVirtual" ConfigName="Debug"/>
+      <Project Name="Task21_3_printf" ConfigName="Debug"/>
+      <Project Name="Task21_4_Strings" ConfigName="Debug"/>
+      <Project Name="Task21_5_Numbers" ConfigName="Debug"/>
+      <Project Name="Task21_6_BitOp" ConfigName="Debug"/>
+      <Project Name="Task28_Aufzugsimulation" ConfigName="Debug"/>
+      <Project Name="Task29_Aufzugsimulation" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Task1_HelloWorld" ConfigName="Debug"/>
+      <Project Name="Task2_Basics" ConfigName="Debug"/>
+      <Project Name="Task3_Classes" ConfigName="Debug"/>
+      <Project Name="Task5_Pointer" ConfigName="Debug"/>
+      <Project Name="Task6_Arrays" ConfigName="Debug"/>
+      <Project Name="Task7_Lists" ConfigName="Debug"/>
+      <Project Name="Task9_Polymorphism" ConfigName="Debug"/>
+      <Project Name="Task10_PureVirtual" ConfigName="Debug"/>
+      <Project Name="Task21_3_printf" ConfigName="Debug"/>
+      <Project Name="Task21_4_Strings" ConfigName="Debug"/>
+      <Project Name="Task21_5_Numbers" ConfigName="Debug"/>
+      <Project Name="Task21_6_BitOp" ConfigName="Debug"/>
+      <Project Name="Task28_Aufzugsimulation" ConfigName="Debug"/>
+      <Project Name="Task29_Aufzugsimulation" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
